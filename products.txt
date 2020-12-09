@@ -1,0 +1,5 @@
+airpods,150
+iPhone,1000
+macbook pro,1500
+charging cable,20
+power adapter,30
